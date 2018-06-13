@@ -9,7 +9,7 @@ os.startfile(r"D:\Program Files\PremiumSoft\Navicat Premium\navicat.exe")
 #打开notepad++
 os.startfile(r"D:\Program Files (x86)\Notepad++\notepad++.exe")
 #打开atom编辑器
-os.startfile(r"C:\Users\Administrator\AppData\Local\atom\app-1.25.0-beta3\atom.exe")
+# os.startfile(r"C:\Users\Administrator\AppData\Local\atom\app-1.25.0-beta3\atom.exe")
 #打开微信
 os.startfile(r"C:\Program Files (x86)\Tencent\WeChat\WeChat.exe")
 #打开有道翻译
